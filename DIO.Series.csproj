@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\EntidadeBase.cs" />
+    <Compile Include="Classes\Filme.cs" />
+    <Compile Include="Classes\FilmeRepositorio.cs" />
     <Compile Include="Classes\Serie.cs" />
     <Compile Include="Classes\SerieRepositorio.cs" />
     <Compile Include="Enum\Genero.cs" />
