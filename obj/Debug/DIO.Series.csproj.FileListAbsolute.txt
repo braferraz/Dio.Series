@@ -1,0 +1,7 @@
+C:\Users\rainb\source\repos\DIO.Series\obj\Debug\DIO.Series.csprojAssemblyReference.cache
+C:\Users\rainb\source\repos\DIO.Series\obj\Debug\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\rainb\source\repos\DIO.Series\bin\Debug\DIO.Series.exe.config
+C:\Users\rainb\source\repos\DIO.Series\bin\Debug\DIO.Series.exe
+C:\Users\rainb\source\repos\DIO.Series\bin\Debug\DIO.Series.pdb
+C:\Users\rainb\source\repos\DIO.Series\obj\Debug\DIO.Series.exe
+C:\Users\rainb\source\repos\DIO.Series\obj\Debug\DIO.Series.pdb
